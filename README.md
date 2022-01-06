@@ -1,7 +1,6 @@
 ## Observer (_Design Pattern_)
-Exemplo de implementação básica do padrão de projeto _Observer_.
 
-Linguagem: Kotlin
+Exemplo de implementação básica do padrão de projeto _Observer_.
 
 ## Definição
 
